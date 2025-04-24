@@ -25,9 +25,9 @@ body {
 
 /* Gradient Animation */
 @keyframes gradientShift {
-  0% { background: linear-gradient(to right, #ff0000, #00ff00); }
-  50% { background: linear-gradient(to right, #cc0000, #00cc00); }
-  100% { background: linear-gradient(to right, #ff0000, #00ff00); }
+  0% { background: linear-gradient(to right, #03adfc, #155bb0); }
+  50% { background: linear-gradient(to right, #03adfc, #155bb0); }
+  100% { background: linear-gradient(to right, #03adfc, #03adfc); }
 }
 
 body {
